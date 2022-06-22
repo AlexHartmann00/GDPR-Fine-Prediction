@@ -1,2 +1,2 @@
 # GDPR-Fine-Prediction
-fix file structure to make it easier 
+*Analyses folder contains the script along with the dataset used.
